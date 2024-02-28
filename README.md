@@ -1,6 +1,3 @@
-# BlackJack
-BlackJack на Python
-
 # Простой BlackJack на Python
 
 ## Оглавление
