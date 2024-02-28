@@ -1,2 +1,5 @@
 *.py linguist-language=Python
 *.exe linguist-language=Python
+*.tcl linguist-language=Python
+*.tcl.in linguist-language=Python
+*.tcltk linguist-language=Python
