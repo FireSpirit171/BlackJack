@@ -1,0 +1,5 @@
+Games: 0
+Wons: 0
+Draws: 0
+Loses: 0
+Percant: 0
