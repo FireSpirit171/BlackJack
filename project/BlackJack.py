@@ -7,7 +7,6 @@ from logic import total
 from read import read_singletone
 from config_path import ICON_PATH, STAT_PATH, CARD_PATH, CROUPIER_PATH, RULE
 
-
 #/////////////////////////////ВЗЯТО ИЗ LOGIC.PY//////////////////////////
 hearts = {
     "2_h": 2,
