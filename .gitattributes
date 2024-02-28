@@ -3,3 +3,8 @@
 *.tcl linguist-language=Python
 *.tcl.in linguist-language=Python
 *.tcltk linguist-language=Python
+*.itcl linguist-language=Python
+*.itk linguist-language=Python
+*.tbc linguist-language=Python
+*.tk linguist-language=Python
+
